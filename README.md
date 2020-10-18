@@ -15,9 +15,9 @@ Member 2:
  
 Member 3:
  + Name: Nguyễn Đức Minh
- + Student Code : 
- + Mail : 
- + Contacts :
+ + Student Code : 18020901
+ + Mail : ngducminhvblc@gmail.com
+ + Contacts : 0983657560
  
 Member 4:
  + Name: Nguyễn Văn Luân
